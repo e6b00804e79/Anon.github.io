@@ -1,3 +1,2 @@
 # Travelers Deep Web Screen
- Recreation of the animation used in the Netflix Series called Travelers when they go on the deep web to find T.E.L.L's for incoming travelers.
- Featured on the Travelers subreddit :)
+Edit for yannicfreson's version to which I believe is more accurate with different Unicodes other than the matrix version.
